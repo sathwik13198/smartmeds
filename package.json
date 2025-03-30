@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "connect-mongo": "^5.1.0",
+    "mongodb": "^6.15.0",
+    "mongodb-memory-server": "^10.1.4",
+    "mongoose": "^8.13.1"
+  },
+  "devDependencies": {
+    "@types/mongoose": "^5.11.96",
+    "vitest": "^3.0.9",
+    "ws": "^8.18.1"
+  }
+}
